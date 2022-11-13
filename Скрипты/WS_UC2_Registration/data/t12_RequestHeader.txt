@@ -1,0 +1,14 @@
+GET /order/api/v1/carts/644998181 HTTP/1.1
+Host: www.advantageonlineshopping.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Authorization: Basic ZGZzZGZnOk5pa2l0YTE=
+Connection: keep-alive
+Referer: https://www.advantageonlineshopping.com/
+Cookie: _ga=GA1.2.753485660.1667894186; _gid=GA1.2.1483889545.1667894186; userCart=%7B%22userId%22%3A-1%2C%22productsInCart%22%3A%5B%5D%7D; _gat=1
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+

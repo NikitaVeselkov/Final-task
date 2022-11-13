@@ -1,0 +1,15 @@
+[t32]
+FileName1=t32_401866217.json
+URL1=https://www.advantageonlineshopping.com/order/api/v1/carts/401866217
+Total=3
+ContentType=application/json
+SnapshotXmlFile=snapshot_32.xml
+RequestHeaderFile=t32_RequestHeader.txt
+RequestBodyFile=NONE
+ResponseHeaderFile=t32_ResponseHeader.txt
+FileName2=t32_fetchImage.jpg
+URL2=https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1300
+FileName3=t32_fetchImage.jpg
+URL3=https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=1250
+[ProtocolInfo]
+ProtocolId=QTWeb

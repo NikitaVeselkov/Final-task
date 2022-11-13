@@ -1,0 +1,72 @@
+Start auto log messages stack - Iteration 7.	[MsgId: MMSG-10545]
+Action.c(272): web_add_header("Accept:") was successful  	[MsgId: MMSG-26392]
+Action.c(275): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(275): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(280): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action.c(280): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(280): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(282): web_submit_data("{color}") started  	[MsgId: MMSG-26355]
+Action.c(282): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 8.	[MsgId: MMSG-10545]
+Action.c(272): web_add_header("Accept:") was successful  	[MsgId: MMSG-26392]
+Action.c(275): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(275): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(280): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action.c(280): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(280): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(282): web_submit_data("{color}") started  	[MsgId: MMSG-26355]
+Action.c(282): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 35.	[MsgId: MMSG-10545]
+../common_lib_2.h(54): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+../common_lib_2.h(54): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+../common_lib_2.h(54): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+../common_lib_2.h(56): web_reg_save_param started  	[MsgId: MMSG-26355]
+../common_lib_2.h(56): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+../common_lib_2.h(61): web_url("{UserID}") started  	[MsgId: MMSG-26355]
+../common_lib_2.h(61): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 35.	[MsgId: MMSG-10545]
+../common_lib_2.h(61): Aborting pending download of URL="https://www.advantageonlineshopping.com/order/api/v1/carts/238385811" (RelFrameId=1, Internal ID=929)  	[MsgId: MMSG-27649]
+../common_lib_2.h(61): Error -26377: No match found for the requested parameter "JSessionID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+../common_lib_2.h(61): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 35.	[MsgId: MMSG-10545]
+../common_lib_2.h(54): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+../common_lib_2.h(54): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+../common_lib_2.h(54): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+../common_lib_2.h(56): web_reg_save_param started  	[MsgId: MMSG-26355]
+../common_lib_2.h(56): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+../common_lib_2.h(61): web_url("{UserID}") started  	[MsgId: MMSG-26355]
+../common_lib_2.h(61): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 35.	[MsgId: MMSG-10545]
+../common_lib_2.h(61): Aborting pending download of URL="https://www.advantageonlineshopping.com/order/api/v1/carts/238385811" (RelFrameId=1, Internal ID=929)  	[MsgId: MMSG-27649]
+../common_lib_2.h(61): Error -26377: No match found for the requested parameter "JSessionID". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 0 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+../common_lib_2.h(61): Error -26374: The above "not found" error(s) may be explained by header and body byte counts being 0 and 0, respectively.  	[MsgId: MERR-26374]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 40.	[MsgId: MMSG-10545]
+Action.c(272): web_add_header("Accept:") was successful  	[MsgId: MMSG-26392]
+Action.c(275): web_add_header("Origin") started  	[MsgId: MMSG-26355]
+Action.c(275): web_add_header("Origin") was successful  	[MsgId: MMSG-26392]
+Action.c(280): web_add_header("Authorization") started  	[MsgId: MMSG-26355]
+Action.c(280): Warning -26594: The header being added may cause unpredictable results if applied to ALL the URLs generated on behalf of the next script function. It will apply to the primary URL only.  	[MsgId: MWAR-26594]
+Action.c(280): web_add_header("Authorization") highest severity level was "warning"  	[MsgId: MMSG-26391]
+Action.c(282): web_submit_data("{color}") started  	[MsgId: MMSG-26355]
+Action.c(282): Error -26612: HTTP Status-Code=500 (Internal Server Error) for "https://www.advantageonlineshopping.com/order/api/v1/carts/238385811/product/19/color/C3C3C3?quantity=1"  	[MsgId: MERR-26612]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

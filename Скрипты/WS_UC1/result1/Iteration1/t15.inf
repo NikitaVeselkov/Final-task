@@ -1,0 +1,26 @@
+[t15]
+FileName2=t15_5_review_Left_disabled.png
+RawStepEndTime=1668151653201
+FileName5=t6_2_.html
+FileName4=t15_3_review_right.png
+FileName7=t6_0_Special-offer.html
+FileName6=t6_1_chat_logo.png
+RequestBodyFile=t15_RequestBody.txt
+RawStepName=product-page.html
+ContentType=text/html
+URL1=https://www.advantageonlineshopping.com/app/views/product-page.html
+URL2=https://www.advantageonlineshopping.com/css/images/review_Left_disabled.png
+URL3=https://www.advantageonlineshopping.com/css/images/reviewUser.png
+ResponseHeaderFile=t15_ResponseHeader.txt
+URL4=https://www.advantageonlineshopping.com/css/images/review_right.png
+URL5=https://www.advantageonlineshopping.com/app/views/
+URL6=https://www.advantageonlineshopping.com/css/images/chat_logo.png
+URL7=https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg
+SnapshotXmlFile=snapshot_15.xml
+RequestHeaderFile=t15_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1668151651039
+Total=7
+StepName=Url: product-page.html
+FileName1=t15.html
+FileName3=t15_4_reviewUser.png

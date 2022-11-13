@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Nikitka\Documents\VuGen\Scripts\WS_UC3_DeleteCart
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\nikitka\documents\vugen\scripts\ws_uc3_deletecart\\logfile.log
+c:\users\nikitka\documents\vugen\scripts\ws_uc3_deletecart\\combined_WS_UC3_DeleteCart.c
+c:\users\nikitka\documents\vugen\scripts\ws_uc3_deletecart\\pre_cci.c

@@ -1,0 +1,20 @@
+[t13]
+FileName2=t6_2_.html
+RawStepEndTime=1668151649973
+FileName4=t6_0_Special-offer.html
+RequestBodyFile=t13_RequestBody.txt
+RawStepName=all_data
+ContentType=application/json
+URL1=https://www.advantageonlineshopping.com/catalog/api/v1/categories/all_data
+URL2=https://www.advantageonlineshopping.com/app/views/
+URL3=https://www.advantageonlineshopping.com/css/images/chat_logo.png
+ResponseHeaderFile=t13_ResponseHeader.txt
+URL4=https://www.advantageonlineshopping.com/app/views/css/images/Special-offer.jpg
+SnapshotXmlFile=snapshot_13.xml
+RequestHeaderFile=t13_RequestHeader.txt
+SaveSnapshotResources=1
+RawStepStartTime=1668151648386
+Total=4
+StepName=Url: all_data
+FileName1=t13.json
+FileName3=t6_1_chat_logo.png

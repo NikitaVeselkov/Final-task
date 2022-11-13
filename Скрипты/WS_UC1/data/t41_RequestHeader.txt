@@ -1,0 +1,17 @@
+POST /order/api/v1/carts/401866217/product/10/color/C3C3C3?quantity=1 HTTP/1.1
+Host: www.advantageonlineshopping.com
+User-Agent: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:105.0) Gecko/20100101 Firefox/105.0
+Accept: application/json, text/plain, */*
+Accept-Language: en-US,en;q=0.5
+Accept-Encoding: gzip, deflate, br
+Authorization: Basic bmlraXRhOk5pa2l0YTE=
+Content-Type: application/x-www-form-urlencoded
+Content-Length: 42
+Origin: https://www.advantageonlineshopping.com
+Connection: keep-alive
+Referer: https://www.advantageonlineshopping.com/
+Cookie: JSESSIONID=3D6931E2551C923D83562CF9C9EB746B
+Sec-Fetch-Dest: empty
+Sec-Fetch-Mode: cors
+Sec-Fetch-Site: same-origin
+

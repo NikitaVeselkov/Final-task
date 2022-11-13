@@ -1,0 +1,15 @@
+Error: missing newline in C:\Users\Nikitka\Documents\VuGen\Scripts\WS_UC2_Registration\genNumber.dat	[MsgId: MERR-13874]
+Error: missing newline in C:\Users\Nikitka\Documents\VuGen\Scripts\WS_UC2_Registration\country.dat	[MsgId: MERR-13874]
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(234): web_custom_request("AccountCreateRequest") was successful, 411 body bytes, 735 header bytes  	[MsgId: MMSG-26386]
+Action.c(250): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(250): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(254): web_reg_save_param started  	[MsgId: MMSG-26355]
+Action.c(254): Registering web_reg_save_param was successful  	[MsgId: MMSG-26390]
+Action.c(259): web_add_header("SOAPAction") started  	[MsgId: MMSG-26355]
+Action.c(259): web_add_header("SOAPAction") was successful  	[MsgId: MMSG-26392]
+Action.c(262): web_custom_request("AccountLoginRequest") started  	[MsgId: MMSG-26355]
+Action.c(262): Error -26377: No match found for the requested parameter "Authorization". Either the specified boundaries were not found in the response or the matched text is longer than current max html parameter size of 256 bytes. The total length of the response is 409 bytes. You can use "web_set_max_html_param_len" to increase the max parameter size.  	[MsgId: MERR-26377]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

@@ -1,0 +1,40 @@
+Start auto log messages stack - Iteration 2.	[MsgId: MMSG-10545]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3300" failed  	[MsgId: MWAR-27760]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=laptops" failed  	[MsgId: MWAR-27760]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=headphones" failed  	[MsgId: MWAR-27760]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/css/images/Special-offer.jpg" failed  	[MsgId: MWAR-27760]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff" failed  	[MsgId: MWAR-27760]
+Action.c(35): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 3.	[MsgId: MMSG-10545]
+Action.c(35): Downloading resource "https://www.advantageonlineshopping.com/css/images/Popular-item2.jpg" (specified by argument number 64)  	[MsgId: MMSG-26577]
+Action.c(35): Downloading resource "https://www.advantageonlineshopping.com/css/images/Popular-item3.jpg" (specified by argument number 66)  	[MsgId: MMSG-26577]
+Action.c(35): Downloading resource "https://www.advantageonlineshopping.com/css/images/FacebookLogo.png" (specified by argument number 68)  	[MsgId: MMSG-26577]
+Action.c(35): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=4700" (specified by argument number 71)  	[MsgId: MMSG-26577]
+Action.c(35): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3300" (specified by argument number 73)  	[MsgId: MMSG-26577]
+Action.c(35): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 4.	[MsgId: MMSG-10545]
+Action.c(35): Downloading resource "https://www.advantageonlineshopping.com/css/images/Popular-item3.jpg" (specified by argument number 66)  	[MsgId: MMSG-26577]
+Action.c(35): Downloading resource "https://www.advantageonlineshopping.com/css/images/FacebookLogo.png" (specified by argument number 68)  	[MsgId: MMSG-26577]
+Action.c(35): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=4700" (specified by argument number 71)  	[MsgId: MMSG-26577]
+Action.c(35): Downloading resource "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3300" (specified by argument number 73)  	[MsgId: MMSG-26577]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=laptops" failed  	[MsgId: MWAR-27760]
+Action.c(35): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+
+Start auto log messages stack - Iteration 6.	[MsgId: MMSG-10545]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=4700" failed  	[MsgId: MWAR-27760]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/css/images/FacebookLogo.png" failed  	[MsgId: MWAR-27760]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/css/images/Banner3.jpg" failed  	[MsgId: MWAR-27760]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/catalog/fetchImage?image_id=3300" failed  	[MsgId: MWAR-27760]
+Action.c(35): Warning -27760: Request "https://www.advantageonlineshopping.com/css/images/Banner2.jpg" failed  	[MsgId: MWAR-27760]
+Action.c(35): Error -27644: Step download timeout (120 seconds) has expired when only cross-step downloads (0) were active  	[MsgId: MERR-27644]
+End auto log messages stack.	[MsgId: MMSG-10544]
+
+

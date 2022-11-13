@@ -1,0 +1,1561 @@
+[API Trapper      (5ced4:5e870)] Recording in 32-bit mode: D:\Стажировка\установщики для стажировки\FirefoxPortable\FirefoxPortable.exe
+[API Trapper      (5c0c:5e4c8)] Recording in 64-bit mode: D:\Стажировка\установщики для стажировки\FirefoxPortable\App\Firefox64\firefox.exe
+[API Trapper      (673cc:3352c)] Recording in 64-bit mode: D:\Стажировка\установщики для стажировки\FirefoxPortable\App\Firefox64\firefox.exe
+[Network Analyzer (673cc:591b0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (673cc:591b0)] Load Network Traffic Analyzers:
+[Network Analyzer (673cc:591b0)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (673cc:591b0)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (673cc:591b0)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (673cc:591b0)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (673cc:591b0)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (673cc:591b0)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (673cc:591b0)] ------------------------------------------------------------------------------------------
+[Network Analyzer (673cc:6458)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[API Trapper      (1d0c:597b0)] Recording in 64-bit mode: D:\Стажировка\установщики для стажировки\FirefoxPortable\App\Firefox64\firefox.exe
+[Network Analyzer (673cc:591b0)] Establish Listener @ 127.0.0.1:3921
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 127.0.0.1:3921   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 11 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.117.237.239:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:57990)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:52bd4)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.160.144.191:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:5da00)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 35.165.41.15:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:5da00)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 108.156.22.99:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:5bee0)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:33b44)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid=  8)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /canonical.html"   
+[Network Analyzer (673cc:6458)]   (Sid:  8) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:33b44)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  8) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  8) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:57990)] SSLAccept(ssl_id = 1570180497552 = 0000016D960D0090) Failed, ctx = 0000016D8FBB0F70, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:57990)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:52bd4)] SSLAccept(ssl_id = 1570075105696 = 0000016D8FC4D9A0) Failed, ctx = 0000016D8FBB5FA0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:52bd4)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  4) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:5598)]   (Sid:  9) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Error    (673cc:5598)] SSLAccept(ssl_id = 1570075019728 = 0000016D8FC389D0) Failed, ctx = 0000016D960D3480, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Net An. Error    (673cc:5598)]   (Sid:  9) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (673cc:6458)]   (Sid:  9) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  3) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  7) Connection Terminated (by Server)
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.102.187.140:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:66df4)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 44.242.41.15:443   (Service=)  (Sid= 11)  PROXIED!
+[Net An. Error    (673cc:5bee0)] SSLAccept(ssl_id = 1570075419360 = 0000016D8FC9A2E0) Failed, ctx = 0000016D8FC978A0, err = "TLSv1.3 early data", err code = 5, err msg= "error:00000005:lib(0):func(0):DH lib
+" 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:5bee0)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (673cc:6458)]   (Sid:  6) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:66df4)] SSLAccept(ssl_id = 1570180497552 = 0000016D960D0090) Failed, ctx = 0000016D82014750, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:66df4)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 93.184.220.29:80   (Service=)  (Sid= 12)  PROXIED!
+[Web Request      (673cc:6458)] "POST /"   
+[Network Analyzer (673cc:6458)]   (Sid: 12) Client -> Server @ : 426 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 12) Server -> Client : 798 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6b28)]   (Sid: 11) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:6b28)] SSLAccept(ssl_id = 1570075314656 = 0000016D8FC809E0) Failed, ctx = 0000016D8FC978A0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:6b28)]   (Sid: 11) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  5) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid: 10) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 13)  PROXIED!
+[Web Request      (673cc:6458)] "GET /canonical.html"   
+[Network Analyzer (673cc:6458)]   (Sid: 13) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 13) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 11) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:54b0)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /success.txt?ipv4"   
+[Network Analyzer (673cc:6458)]   (Sid: 16) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:54b0)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:192c)]   (Sid: 15) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:192c)]   (Sid: 15) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 16) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /canonical.html"   
+[Network Analyzer (673cc:6458)]   (Sid: 13) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 13) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /success.txt?ipv4"   
+[Network Analyzer (673cc:6458)]   (Sid: 16) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 16) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 14) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid: 15) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 44.242.41.15:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:25f8)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:25f8)] SSLAccept(ssl_id = 1570074945200 = 0000016D8FC266B0) Failed, ctx = 0000016D8FC978A0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:25f8)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /canonical.html"   
+[Network Analyzer (673cc:6458)]   (Sid: 13) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 17) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 4 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6a20)]   (Sid: 18) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:60f58)]   (Sid: 19) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 20)  PROXIED!
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 22)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:60f58)]   (Sid: 19) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6a20)]   (Sid: 18) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:67738)]   (Sid: 22) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.120.208.123:443   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:67738)]   (Sid: 22) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc: a34)]   (Sid: 21) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc: a34)]   (Sid: 21) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:454c)]   (Sid: 20) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:454c)]   (Sid: 20) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6649c)]   (Sid: 23) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6649c)]   (Sid: 23) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 18) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid: 19) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid: 22) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid: 21) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid: 20) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid: 23) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 13) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /canonical.html"   
+[Network Analyzer (673cc:6458)]   (Sid: 24) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 24) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /success.txt?ipv4"   
+[Network Analyzer (673cc:6458)]   (Sid: 16) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 44.242.41.15:443   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6608c)]   (Sid: 25) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:6608c)] SSLAccept(ssl_id = 1570075526992 = 0000016D8FCB4750) Failed, ctx = 0000016D8FC978A0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:6608c)]   (Sid: 25) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /canonical.html"   
+[Network Analyzer (673cc:6458)]   (Sid: 24) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 24) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 16) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 26)  PROXIED!
+[Web Request      (673cc:6458)] "GET /success.txt?ipv4"   
+[Network Analyzer (673cc:6458)]   (Sid: 26) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 26) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 25) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 27)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:5e63c)]   (Sid: 27) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:5e63c)]   (Sid: 27) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 603 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 3264 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/main.min.css"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 556 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 14211 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 28)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /vendor/requirejs/require.js"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 553 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 5102 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:5c3a8)]   (Sid: 28) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 29)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:5c3a8)]   (Sid: 28) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/fonts/roboto_regular_macroman/Roboto-Regular-webfont.woff"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 652 bytes (SSL)(Service=HTTP)
+[Web Request      (673cc:6458)] "GET /css/images/Down_arrow.svg"   
+[Network Analyzer (673cc:6458)]   (Sid: 28) Client -> Server @ : 572 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6601c)]   (Sid: 29) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 9031 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 30)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6601c)]   (Sid: 29) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /main.min.js"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 537 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 1195 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 31)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 6711 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:65c48)]   (Sid: 30) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:65c48)]   (Sid: 30) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (673cc:6458)] "GET /css/images/favicon.ico"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 569 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/logo.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 566 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/closeDark.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 28) Client -> Server @ : 571 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (673cc:6458)] "GET /services.properties"   
+[Network Analyzer (673cc:6458)]   (Sid: 30) Client -> Server @ : 541 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:65fa4)]   (Sid: 31) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 1551 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 3043 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 1496 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 32)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:65fa4)]   (Sid: 31) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/fonts/roboto_medium_macroman/Roboto-Medium-webfont.woff"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 650 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 30) Server -> Client : 1378 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Web Request      (673cc:6458)] "GET /catalog/api/v1/DemoAppConfig/parameters/by_tool/ALL"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 603 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:2b98)]   (Sid: 32) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:2b98)]   (Sid: 32) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 6974 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 9059 bytes (SSL) (Service=HTTP)
+[Web Request      (673cc:6458)] "GET /css/fonts/roboto_light_macroman/Roboto-Light-webfont.woff"   
+[Network Analyzer (673cc:6458)]   (Sid: 32) Client -> Server @ : 648 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "POST /accountservice/ws/GetAccountConfigurationRequest"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 1195 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 1570 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 216.239.32.178:443   (Service=)  (Sid= 33)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:6557c)]   (Sid: 33) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 142.250.74.99:80   (Service=)  (Sid= 34)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "POST /gts1c3"   
+[Network Analyzer (673cc:6458)]   (Sid: 34) Client -> Server @ : 429 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /catalog/api/v1/categories"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 577 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:6557c)] SSLAccept(ssl_id = 1570075737616 = 0000016D8FCE7E10) Failed, ctx = 0000016D9618C600, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:6557c)]   (Sid: 33) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 34) Server -> Client : 702 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 4901 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 33) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 8587 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /catalog/api/v1/deals/search?dealOfTheDay=true"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 605 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 783 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /app/tempFiles/popularProducts.json"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 594 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 965 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /app/views/home-page.html"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 560 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 2691 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/Special-offer.jpg"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 583 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/chat_logo.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 579 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/GoUp.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 32) Client -> Server @ : 574 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/facebook.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 28) Client -> Server @ : 578 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/twitter.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 30) Client -> Server @ : 577 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 1981 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 3401 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 30) Server -> Client : 2462 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 2512 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 15691 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 31) Connection Terminated (by Client)
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 54.227.55.203:443   (Service=)  (Sid= 35)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/fonts/roboto_bold_macroman/Roboto-Bold-webfont.woff"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 654 bytes (SSL)(Service=HTTP)
+[Web Request      (673cc:6458)] "GET /css/fonts/roboto_thin_macroman/Roboto-Thin-webfont.woff"   
+[Network Analyzer (673cc:6458)]   (Sid: 32) Client -> Server @ : 654 bytes (SSL)(Service=HTTP)
+[Web Request      (673cc:6458)] "GET /css/images/arrow_right.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 30) Client -> Server @ : 597 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /catalog/fetchImage?image_id=speakers"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 591 bytes (SSL)(Service=HTTP)
+[Web Request      (673cc:6458)] "GET /catalog/fetchImage?image_id=tablets"   
+[Network Analyzer (673cc:6458)]   (Sid: 28) Client -> Server @ : 590 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:5a60)]   (Sid: 35) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 30) Server -> Client : 1392 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 8955 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 8819 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 15161 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:5a60)]   (Sid: 35) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Web Request      (673cc:6458)] "GET /css/images/linkedin.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 35) Client -> Server @ : 578 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 35) Server -> Client : 2105 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16318 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /catalog/fetchImage?image_id=laptops"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 590 bytes (SSL)(Service=HTTP)
+[Web Request      (673cc:6458)] "GET /catalog/fetchImage?image_id=mice"   
+[Network Analyzer (673cc:6458)]   (Sid: 32) Client -> Server @ : 587 bytes (SSL)(Service=HTTP)
+[Web Request      (673cc:6458)] "GET /catalog/fetchImage?image_id=headphones"   
+[Network Analyzer (673cc:6458)]   (Sid: 30) Client -> Server @ : 593 bytes (SSL)(Service=HTTP)
+[Web Request      (673cc:6458)] "GET /css/images/Banner1.jpg"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 577 bytes (SSL)(Service=HTTP)
+[Web Request      (673cc:6458)] "GET /css/images/Banner2.jpg"   
+[Network Analyzer (673cc:6458)]   (Sid: 28) Client -> Server @ : 577 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/Banner3.jpg"   
+[Network Analyzer (673cc:6458)]   (Sid: 35) Client -> Server @ : 577 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 30) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 15494 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 30) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 30) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 30) Server -> Client : 11389 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 35) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 35) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 28) Server -> Client : 3572 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 10229 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 35) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 35) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 35) Server -> Client : 3321 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 5261 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/Popular-item3.jpg"   
+[Network Analyzer (673cc:6458)]   (Sid: 35) Client -> Server @ : 583 bytes (SSL)(Service=HTTP)
+[Web Request      (673cc:6458)] "GET /css/images/Popular-item2.jpg"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 583 bytes (SSL)(Service=HTTP)
+[Web Request      (673cc:6458)] "GET /css/images/Popular-item1.jpg"   
+[Network Analyzer (673cc:6458)]   (Sid: 32) Client -> Server @ : 583 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 35) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 12104 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 10370 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 35) Server -> Client : 9995 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent login [Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/FacebookLogo.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 598 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 1427 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "POST /accountservice/ws/AccountLoginRequest"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 1241 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 1534 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /order/api/v1/carts/401866217"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 631 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 813 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "PUT /order/api/v1/carts/401866217"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 827 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /catalog/fetchImage?image_id=4700"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 521 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /catalog/fetchImage?image_id=3300"   
+[Network Analyzer (673cc:6458)]   (Sid: 32) Client -> Server @ : 521 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 32) Server -> Client : 12197 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 5301 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 664 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 52.40.161.235:443   (Service=)  (Sid= 36)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent login [Network Analyzer (673cc:5838)]   (Sid: 36) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.2, ciphers:ECDHE-RSA-AES128-GCM-SHA256)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:5838)] SSLAccept(ssl_id = 1570075551968 = 0000016D8FCBA8E0) Failed, ctx = 0000016D8FC978A0, err = "error", err code = 1, err msg= "error:00000001:lib(0):func(0):reason(1)
+error:14094412:SSL routines:ssl3_read_bytes:sslv3 alert bad certificate
+" 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Net An. Error    (673cc:5838)]   (Sid: 36) Negotiate Client -> Proxy SSL Handshake Failed!!!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /canonical.html"   
+[Network Analyzer (673cc:6458)]   (Sid: 24) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 36) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 24) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:591b0)] Address lookup for DESKTOP-P7COR0G = 172.30.48.1
+[Network Analyzer (673cc:591b0)] Request Connection: Remote Server @ 34.107.221.82:80   (Service=)  (Sid= 37)  PROXIED!
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /canonical.html"   
+[Network Analyzer (673cc:6458)]   (Sid: 37) Client -> Server @ : 303 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 37) Server -> Client : 298 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /success.txt?ipv4"   
+[Network Analyzer (673cc:6458)]   (Sid: 26) Client -> Server @ : 305 bytes (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 26) Server -> Client : 216 bytes  (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] StartTransactionEvent GoToCart [Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /order/api/v1/carts/401866217"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 610 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 733 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 2 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /app/views/shoppingCart.html"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 497 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 1923 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/Master_credit.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 517 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "GET /css/images/SafePay.png"   
+[Network Analyzer (673cc:6458)]   (Sid: 27) Client -> Server @ : 511 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 2049 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 27) Server -> Client : 5048 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[User action                 ] EndTransactionEvent GoToCart [Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 30) Connection Terminated (by Server)
+[Network Analyzer (673cc:6458)]   (Sid: 28) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent delete [Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "DELETE /order/api/v1/carts/401866217/product/25/color/55CDD5"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 678 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 768 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 35) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent delete [Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Web Request      (673cc:6458)] "POST /accountservice/ws/AccountLogoutRequest"   
+[Network Analyzer (673cc:6458)]   (Sid: 29) Client -> Server @ : 1174 bytes (SSL)(Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 12) Connection Terminated (by Client)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid: 29) Server -> Client : 1149 bytes (SSL) (Service=HTTP)
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
+[Network Analyzer (673cc:6458)]   (Sid:  2) Client -> Server @ : 1 bytes 
