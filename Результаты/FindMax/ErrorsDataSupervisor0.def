@@ -1,5 +1,5 @@
 ﻿[ErrorsDataSupervisor_BasicInfo]
-NumFilters=2
+NumFilters=1
 
 [AdditionalFilter0]
 DimensionType=Discrete
@@ -24,17 +24,6 @@ Dim_10=UC_1_BuyProduct
 Dim_11=UC_2_Registration
 Dim_12=UC_3_DeleteCart
 LikeMode=0
-
-[AdditionalFilter1]
-DimensionType=Continuous
-InternalDimName=End Time
-Dimension=Scenario Elapsed Time
-EqualFlag=1
-DimensionTableName=Event_meter
-NumValues=1
-DimCount=2
-Dim_0=1380.000000
-Dim_1=2580.000000
 
 [DimensionFunctions]
 DimeFuncCount=1
